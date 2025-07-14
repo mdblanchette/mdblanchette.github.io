@@ -279,5 +279,189 @@ Therefore, we call language "evaluative" only when it is **openly and literally*
 
 While this is bad, BUT this is a good indication to you as a critic that **that's the precise point which their argument is probably weak**. They're using that language to **hide where their real weakness is** in their argument. Look for these signals!
 
-## 3.3 Close Analysis
-### 3.3.1 Close Analysis (Part I)
+# Module 4
+## 4.1 Validity and Soundness
+### 4.1.1 Validity
+
+#### Standards for Evaluating Arguments
+1. Validity
+2. Soundness
+
+There are two main ways for arguments to go wrong (VICES in arguments):
+1. One or more premises are **false**.
+2. The premises do not provide a **good reason** for the conclusion.
+
+By avoiding these, we can reach the two VIRTUES in arguments: Validity and Soundness.
+
+#### Relation Between Premises and Conclusion
+1. **DEDUCTIVE Argument**: The conclusion follows from the premises. &rarr; This is hard to pin down, so logicians focus on validity, i.e. **a deductive argument is supposed to be valid**.
+2. **INDUCTIVE Argument**: Argument is not supposed to be valid (will be looked at later in the course).
+
+So, what is VALIDITY?
+
+Imagine:    \
+(1) Mary has a child who is pregnant.   \
+(2) Only daughters can become pregnant. \
+∴ (3) Therefore, Mary MUST have at least one daughter.
+
+An argument is VALID if and only if it is not possible that both all of its premises are true and its conclusion is false.
+
+But... the word “possible” is tricky. How do we know what is and isn’t possible?
+
+### 4.1.2 Soundness
+
+You might be thinking: If valid arguments can have false premises, then what good are they? You could have horrible arguments that are still valid.
+
+When a **valid** argument has **true premises** &rarr; You get **Soundness**. 
+
+Because:
+1. All the premises are true.
+2. It is not possible for the premises to be true and the conclusion to be false.
+3. Therefore, the conclusion must be true.
+
+So, an argument is **SOUND** if and only if:
+1. All of its premises are true, and
+2. it is valid.
+
+## 4.2 Revealing the Basic Structure
+### 4.2.1 Get Down to Basics
+
+The goal of reconstruction is to put an argument in a form in which we can easily and accurately assess it in as fair a manner as possible.
+
+#### Reconstruction Process
+**STAGE I: CLOSE ANALYSIS** \
+Step 1: Do a close analysis.
+
+**STAGE II: GET DOWN TO BASICS**    \
+Step 2: Remove all excess verbiage (words). \
+Step 3: List all explicit premises and conclusion in standard form.
+
+**STAGE III: SHARPEN EDGES**    \
+Step 4: Clarify those premises where needed.    \
+Step 5: Break up premises where possible without distortion.
+
+**STAGE IV: ORGANIZE PARTS**    \
+Step 6: Divide the argument into sub-arguments and arrange them in order.
+
+**STAGE V: FILL IN THE GAPS**   \
+Step 7: Assess whether each argument is valid.  \
+Step 8: Add supressed premises where needed.    \
+Step 9: Check each premise for truth.   \
+Step 10:  Qualify premises to make them true where needed if possible.
+
+**STAGE VI: ASSESS THE ARGUMENT**   \
+Step 11: Conclude.  \
+11.1 If you find a sound reconstruction, accept the conclusion, since it must be true.  \
+11.2 If you try hard enough but fail to find a sound reconstruction, then it is often reasonable to conclude that the argument is not sound.
+
+
+#### Examples of Excess Verbiage
+**Road Markers**: Saying why a topic is important and worth talking about. This is helpful for keeping track of an argument but does not add anything to the argument itself.
+
+**Tangents**: Yapping a bunch about something without getting straight to the reasons for an argument.
+
+**Red Herring**: Producing tangents to distract you from the main line of argument because they know that argument is weak and they don't want you to notice it.
+
+**Examples**: Using examples that are tangentially relevant to the main argument to sway you away from the central point.
+
+### 4.2.2 Sharpen Edges
+
+We don't seek **ABSOLUTE** precision/clarity when forming arguments, but rather **ADEQUATE** precision/clarity. We want to clear up parts of the premises and conclusions that people are likely to be confused by later.
+
+"We need to help the needy."
+
+Who's we? Who says it's necessary? What do you mean by help? Who classifies as needy? There are so many different ways to interpret this, and we need to clarify exactly what we mean when forming the right argument.
+
+Break up premises that have AND, but do not break premises connected by OR.
+
+### 4.2.3 Organize Parts
+
+After identifying the premises and removing the unnecessary stuff, we need to put them in a coherent order.
+
+#### Linear Structure
+![](https://i.postimg.cc/SKrQhjDg/Screenshot-2025-07-09-at-11-28-49-AM.png)
+
+![](https://i.postimg.cc/tCj2wTn1/Screenshot-2025-07-09-at-11-33-14-AM.png)
+
+#### Branching Structure
+![](https://i.postimg.cc/j5n7dzms/Screenshot-2025-07-09-at-11-31-06-AM.png)
+
+![](https://i.postimg.cc/Y9dsMwcc/Screenshot-2025-07-09-at-11-32-26-AM.png)
+
+#### Joint Structure
+
+![](https://i.postimg.cc/wBBpQQdg/Screenshot-2025-07-09-at-11-41-44-AM.png)
+
+![](https://i.postimg.cc/0NhBKYkt/Screenshot-2025-07-09-at-11-42-07-AM.png)
+
+#### Branching vs Joint Structure
+
+**Branching Structure**: The premises provide *INDEPENDENT* support for the conclusion.
+
+**Joint Structure**: The premises work *TOGETHER* to provide support for the conclusion. Neither premise alone is sufficient for the conclusion.
+
+#### Combining Structures
+
+![](https://i.postimg.cc/zGvNnkN5/Screenshot-2025-07-09-at-11-44-26-AM.png)
+
+![](https://i.postimg.cc/4yYv6MWV/Screenshot-2025-07-09-at-11-45-20-AM.png)
+
+![](https://i.postimg.cc/4dqPSs7B/Screenshot-2025-07-09-at-11-45-58-AM.png)
+
+#### The Method
+
+1. Identify and number the premises and conclusion.
+2. When premises work together, put a plus sign between them and draw a line under them.
+3. Draw arrows from reasons to claims that they are reasons for.
+4. Rearrange as necessary.
+
+## 4.3 Completing the Argument
+### 4.3.1 Fill in Gaps
+Step 7: Assess whether each argument is valid.  \
+Step 8: Add supressed premises where needed.    \
+Step 9: Check each premise for truth.   \
+Step 10:  Qualify premises to make them true where needed if possible.
+
+What do you do when you assess the argument for validity and you find out it's not valid? &rarr; **Add suppressed premises, enough of them to make the argument valid.**
+
+#### Reasons to Fill in Suppressed Premises
+1. To examine and assess the assumptions of the argument.
+2. To understand the argument better. We can trace the reasoning between arguments.
+
+#### Goals of Filling in Suppressed Premises
+1. To trace the full path of the arguer's reasoning.
+2. To find out if there are any missteps in the argument.
+
+#### Example
+
+![](https://i.postimg.cc/Dwy4YYGD/Screenshot-2025-07-11-at-11-07-10-AM.png)
+
+In standard form:
+![](https://i.postimg.cc/MHmX9ypq/Screenshot-2025-07-11-at-11-07-49-AM.png)
+
+Let's break this argument into steps.
+
+**Step 1**
+![](https://i.postimg.cc/prCXfRsd/Screenshot-2025-07-11-at-11-09-24-AM.png)
+
+This argument is **invalid**. It is possible for the premise to be True (the box does rattle) but for the conclusion to be False (the box does have a sweater). How? The wife could have put a sweater in the box with some small rocks to trick the husband with rattling sounds.
+
+How do we add a **suppressed premise** to make this argument **valid**?
+
+![](https://i.postimg.cc/bw9cd3Fz/Screenshot-2025-07-11-at-11-14-03-AM.png)
+_1.* is the suppressed argument._
+
+This argument is now **valid**. We can't set the conclusion to be false and keep the premises valid. I.e. if the box *does* contain a sweater (2.), then a box that contains a sweater should not rattle when shaken (1.*), but this box rattles when I shake it (1.). 1. must be false.
+
+Now, how do we make this argument **sound**? Look at:   \
+Step 9: Check each premise for truth.   \
+Step 10:  Qualify premises to make them true where needed if possible.
+
+![](https://i.postimg.cc/4yy241Hx/Screenshot-2025-07-11-at-11-30-44-AM.png)
+
+
+#### Types of Suppressed Premises
+1. Factual (E.g. Person A and Person B were both born on the same day.)
+2. Moral (E.g. You ought to obey your mother if she is not abusive or stupid.)
+3. Norm-based (E.g. You are jewish, you ought to go to the Synagogue on the Sabbath.)
+4. U just know (E.g. You share a grandparent with your first cousin.)
