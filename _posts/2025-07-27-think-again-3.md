@@ -171,3 +171,74 @@ _E: A weaker conclusion like saying "This is probably/There is a small chance th
 ![](https://i.postimg.cc/dtwmrH4X/Screenshot-2025-08-02-at-3-30-27-PM.png)
 
 How do you decide which way to construct the argument? **Pick the one that makes the argument look best.**
+
+# Module 2
+## 2.1 What is a Cause?
+### 2.1.1 Causal Reasoning
+
+We need inductive arguments to support and believe causal judgements. E.g:
+
+* Why did my screen suddenly turn black? &rarr; Laptop is old?/Website crashed?/Someone is pranking me?
+* Which person committed the murder?
+
+Behind these connections between causal events are **general principles**. (E.g. my phone will turn off when I press the side button, and turn on when I tap the screen.)
+
+#### Necessary and Sufficient Conditions
+
+![](https://i.postimg.cc/vZWvk7Vn/Screenshot-2025-08-03-at-6-13-52-PM.png)
+
+![](https://i.postimg.cc/4ysHkHHx/Screenshot-2025-08-03-at-6-23-21-PM.png)
+
+# Module 3
+## 3.1 Negative Sufficient Condition Tests
+![](https://i.postimg.cc/7bvH8pWM/Screenshot-2025-08-03-at-6-34-01-PM.png)
+
+## 3.2 Positive Sufficient Condition Tests
+![](https://i.postimg.cc/BZdMG9v3/Screenshot-2025-08-08-at-2-10-17-PM.png)
+
+## 3.3 Negative Necessary Condition Tests
+![](https://i.postimg.cc/Df9kpNkJ/Screenshot-2025-08-08-at-2-15-30-PM.png)
+
+## 3.4 Positive Necessary Condition Tests
+![](https://i.postimg.cc/YqL2hgkg/Screenshot-2025-08-08-at-2-21-58-PM.png)
+
+## 3.5 Complex Conditions
+
+**Complex Condition**: Conditions/features/candidates that are combinations of other candidates/features/conditions.
+
+### Negative Test for Conjunctive Sufficient Condition 
+![](https://i.postimg.cc/9QCLM6q7/Screenshot-2025-08-08-at-2-44-40-PM.png)
+
+### Negative Test for Conjunctive Necessary Condition 
+![](https://i.postimg.cc/vHzNW8yz/Screenshot-2025-08-08-at-2-46-56-PM.png)
+
+## 3.6 Correlation vs Causation
+
+Consider this:
+
+A runner runs a mile and it takes them 10 minutes. Why were they so slow? &rarr; Maybe because they were **heavy**.
+
+But, weight can't be sufficient for running slow because everyone has a certain weight... It comes in **degrees**.
+
+We can't use necessary/sufficient tests for things that come in degrees!
+
+We need a test that deals with properties that come in degrees:
+
+### John Stuart Mill's Method of Concomitant Variation
+
+#### Correlations
+
+"Concomitant variations" are also known as **correlations**.
+
+![](https://i.postimg.cc/F15CB8Z1/Screenshot-2025-08-10-at-11-38-43-PM.png)
+
+#### Causal Relations
+
+When two features ARE correlated positively/negatively, there are four possible causal relations between them:
+
+![](https://i.postimg.cc/6q5C50pz/Screenshot-2025-08-10-at-11-41-41-PM.png)
+
+## 3.7 Causal Fallacies
+
+### Two Common Fallacies
+![](https://i.postimg.cc/Y0rrnggW/Screenshot-2025-08-11-at-5-35-04-PM.png)
