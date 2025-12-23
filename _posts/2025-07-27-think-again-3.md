@@ -242,3 +242,29 @@ When two features ARE correlated positively/negatively, there are four possible 
 
 ### Two Common Fallacies
 ![](https://i.postimg.cc/Y0rrnggW/Screenshot-2025-08-11-at-5-35-04-PM.png)
+
+# Module 4
+## 4.1 Why Probability Matters
+
+Strengths of inductive arguments comes in different degrees... But what is strength? An argument is strong in proportion to the **probability** that its conclusion is true given its premises. 
+
+### Common Mistakes With Probability
+1. **The Gambler's Fallacy** &rarr; Dice getting "hot... Sports players on a roll in a game...
+2. **The Representative Heuristic** &rarr; Linda the bank teller
+
+## 4.2 What is Probability?
+
+### Kinds of Probability
+
+**A Priori**: You know it prior to experience. &rarr; Assume likelihoods of alternatives (If I know one side of a coin is 0.5 probability, the other side is also 0.5)
+
+**Statistical (Empirical)**: The probability is unknown (you base it on observed frequencies) &rarr; You have to keep testing it for many, many times to find out what the probability is. E.g. After you bend a coin it is no longer fair, we need to keep flipping it to estimate the probability of heads.
+
+## 4.3 Negation
+
+**Rule 1**: The probability an event will NOT occur is one minus the probability that it will occur.
+
+## 4.4 Conjunction
+
+Two events are **independent** if and only if the occurrence of one has no effect on the probability of the other.
+
