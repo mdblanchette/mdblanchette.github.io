@@ -276,3 +276,86 @@ We can do the former by parallel reasoning, and the latter by counterexample or 
 ### Pitfalls of Refutation
 
 - We may end up attacking a straw man or relying upon a false dichotomy.
+
+## 4.2 Refutation by Parallel Reasoning
+
+**Refutation by Parallel Reasoning**: An argument that is intended to show that another argument of **exactly the same form** is clearly unsuccessful, thereby showing that the original argument is also unsuccessful.
+
+Example:
+
+(1) If I had a higher salary, I could buy a bigger house.    
+
+---
+
+∴ (2) Therefore, if everyone had a higher salary, everyone could buy a bigger house.
+
+A Parallel Argument:
+
+(1) If one person stands up at a ball game, they can see better.
+
+---
+
+∴ (2) Therefore, if everyone stands up at a ball game, everyone can see better.
+
+This is a fallacy because if everyone stands up, no one can see better than anyone else.
+
+## 4.3 False Dichotomy
+
+A **False Dichotomy** is when it falsely assumes that there are only two situations when in fact there are more.
+
+Example:
+
+(1) Either we ban all cars from the city center, or pollution will continue to rise.    
+(2) We should not ban all cars from the city center.
+
+---
+
+∴ (3) Therefore, pollution will continue to rise.
+
+This is a false dichotomy because there are other options to reduce pollution, such as promoting public transport or electric vehicles.
+
+## 4.4 Reductio ad Absurdum
+
+Latin phrase meaning: **"reduced to absurdity"**.
+
+**Reductio ad Absurdum**: An argument that is intended to show that another argument is unsuccessful by showing that its conclusion leads to an absurd or contradictory outcome.
+
+Example:
+
+(1) The best way to fight theft is to eliminate the conditions that make theft possible.    
+(2) The use of a tangible medium of exchange (like money) makes theft possible.
+
+---
+
+∴ (3) Therefore, the best way to fight theft is to eliminate tangible medium of exchange.
+
+Rebuttal: You can also eliminate theft by restricting water because you would need water to survive and commit theft. 
+
+## 4.5 Counterexamples
+
+**Counterexample**: An argument that is intended to show that another argument is unsuccessful by providing an example where the premises are true but the conclusion is false.
+
+Counterexamples can be used to refute arguments that contain generalizations either in their premises or conclusions.
+
+Example:
+
+(1) You should always treat others as you would like to be treated.    
+(2) I would not like anyone to change my diapers.
+
+---
+
+∴ (3) Therefore, I should not change the baby's diapers.
+
+This is a fallacy because there are cases where you should treat others differently than how you would like to be treated, such as in caregiving situations. For example, even though I would like to be treated as an adult, that doesn't mean that I should treat a baby as an adult.
+
+## 4.6 Attacking a Straw Man
+
+To attack a straw man is to refute an argument by misrepresenting it in a way that makes it easier to refute.
+
+Example:
+
+Walter: "The US should not have sent in troops to depose the government of Saddam Hussein."
+
+Ram: "Oh, so you must think that the suffering that Saddam Hussein imposed upon his own people was acceptable?"
+
+Walter's original argument was about the US's actions, not about Saddam Hussein's actions. Ram misrepresents Walter's position to make it easier to attack. Walter may very well think that Saddam Hussein's actions were unacceptable while still opposing US intervention.

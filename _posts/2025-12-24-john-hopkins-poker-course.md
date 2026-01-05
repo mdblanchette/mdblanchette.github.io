@@ -599,3 +599,53 @@ Goals of checking:
     - Only continue with monsters or strong draws.
 
 ### Post-Flop Play
+
+- On the flop, you know 5 out of 7 possible cards &rarr; You have defined 70% of your hand's strength.
+
+#### Considerations on the Flop
+
+- How many players are in the hand? What are their tendencies?
+- Your position relative to other players?
+- Who was the pre-flop aggressor?
+- Pot size and remaining effective stacks?
+- Dry or wet flop? &rarr; Wet means lots of draws possible, dry means not many draws possible.
+- How well does pre-flop action connect with the flop?
+    - E.g. If someone raised pre-flop and the flop is 3 3 6, it's likely they didn't hit what they wanted.
+
+
+After the flop, you can have:
+
+- Monster hands (e.g. full house)
+    - No cards left for opponent to hit anything.
+- Strong hands (e.g. set, two pair)
+    - Want to build a pot, usually bet for value.
+- Overpairs & top pair
+    - Usually bet
+    - Not looking to build a huge pot
+    - Dry board &rarr; Check for pot control
+    - Wet board &rarr; Bet for protection to deny odds to drawing hands
+- Pairs below top pair
+    - Usually check and see what opponent does
+    - If opponent bets big, likely behind &rarr; Fold
+    - If opponent bets small, can consider calling
+- Drawing hands
+    - Can play for deception
+    - Play when implied odds are good
+- Nothing hands
+    - Bluff or give up
+    - Consider opponent tendencies and board texture
+
+#### Harrington's Rules for Post-Flop Play
+
+- Mix up play with percentages (e.g. 70% check, 30% bet)
+    - Use the second hand on your watch to ensure randomness
+- There are many ways to play
+    - Not all are correct or incorrect
+    - None are always absolutely right
+    - But some are always absolutely wrong &rarr; Mostly the TAG strategy
+
+# Lecture 6
+
+## Tournaments
+
+See the types of tournaments [here](https://youtu.be/tGkJE2ewdo8?t=1078).
